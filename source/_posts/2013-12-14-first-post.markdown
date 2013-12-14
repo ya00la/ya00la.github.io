@@ -6,6 +6,29 @@ comments: true
 categories: 
 ---
 
+```elixir
+defmodule Hello do
+  def world do
+    IO.puts "hello world!"
+  end
+end
+```
+
+<!-- more -->
+
+This is my first post.
+
+This is my first post.
+
+This is my first post.
+
+This is my first post.
+
+This is my first post.
+
+This is my first post.
+
+This is my first post.
 
 This is my first post.
 
